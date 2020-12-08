@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0+6MdUEyZ+JjnziMJ15dqsvGykhbe+qB0GEgpGQoFzJpFAnk3fnUAZSpNRF2qOL1bbcnmMrQiLD6nsplEpx2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Encapsulamento\\Encapsulamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
